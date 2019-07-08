@@ -11,7 +11,7 @@
   "devDependencies": {
     "opener": "1.4.3",
     "babel-core": "6.26.0",
-    "babel-loader": "7.1.2",
+    "babel-loader": "7.1.5",
     "babel-preset-env": "1.6.0",
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
